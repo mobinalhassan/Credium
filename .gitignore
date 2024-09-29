@@ -1,0 +1,17 @@
+*
+!*/*
+!.gitignore
+!/**/.gitignore
+
+
+!Dockerfile
+!.gitlab-ci.yml
+!.gitmodules
+!README.md
+!requirements.txt
+!*.md
+!/src/*.py
+!*.py
+!config.json
+!example-intersection_cutout/*.*
+

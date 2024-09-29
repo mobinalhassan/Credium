@@ -1,0 +1,32 @@
+{
+    "Brandenburg":{
+        "state_name": "Brandenburg",
+        "EPSG":"EPSG:25833",
+        "base_url": "https://data.geobasis-bb.de/geobasis/daten/als/laz/",
+        "source_ext": "zip",
+        "data_file_ext": "laz"
+
+    },
+    "Bayern":{
+        "state_name": "Bayern",
+        "EPSG":"EPSG:25832",
+        "base_url": "https://geodaten.bayern.de/odd_data/laser/",
+        "source_ext": "laz",
+        "data_file_ext": "laz"
+    },
+    "Nordrhein-Westfalen":{
+        "state_name": "Nordrhein-Westfalen",
+        "EPSG":"EPSG:25832",
+        "base_url": "https://www.opengeodata.nrw.de/produkte/geobasis/hm/3dm_l_las/3dm_l_las/",
+        "source_ext": "laz",
+        "data_file_ext": "laz"
+    }
+    ,
+    "NA":{
+        "state_name": "Berlin",
+        "EPSG":"EPSG:25833",
+        "base_url": "",
+        "source_ext": "",
+        "data_file_ext": ""
+    }
+}
